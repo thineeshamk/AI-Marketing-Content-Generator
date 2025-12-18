@@ -1,0 +1,11 @@
+playwright
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-groq
+chromadb
+pytrends
+python-dotenv
+pandas
+streamlit
